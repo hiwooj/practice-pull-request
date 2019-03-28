@@ -1,1 +1,1 @@
-Open API
+Closed API
